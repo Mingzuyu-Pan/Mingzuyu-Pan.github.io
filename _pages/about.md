@@ -2,33 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, <a href='https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics'>Bioinformatics and Genomics</a>, <a href='https://www.psu.edu/'>Penn State</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computational Population Genetics</p>
+    <p>Szpiech Lab</p>
+    <p>Penn State University</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # set to true when you add news items in _news/
+selected_papers: false # set to true after you add your papers to _bibliography/papers.bib and mark them as selected
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+latest_posts: false # set to true when you start blogging
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Bioinformatics and Genomics](https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics) program at Penn State, advised by [Zachary Szpiech](https://szpiech.github.io/). My broad research interests fall into two areas: theoretical population genetics and evolutionary human genetics. During my PhD, I have been focusing on the theory and methods of runs of homozygosity (ROH) and am deeply curious about the landscape of deleterious mutation load. I work with both empirical and simulated data and have extensive experience with [SLiM](https://messerlab.org/slim/) for forward-in-time simulation. Beyond these core areas, I am also drawn to spatial population genetics and conservation genetics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to Penn State, I completed my Bachelor of Science in Mathematics and Applied Mathematics at [Beijing Normal University](https://english.bnu.edu.cn/). During the final years of my undergraduate studies, I worked with [Jackson Champer](https://jchamper.github.io/) at Peking University, where I began my research career through computational simulation of gene drives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I am an avid classical music listener — a devoted audience of [Augustin Hadelich](https://augustinhadelich.com/) and [Krystian Zimerman](https://en.wikipedia.org/wiki/Krystian_Zimerman). I write literary fiction in Chinese, and am a faithful reader of [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro). I also raised two tuxedo cats from six weeks old, and they are now family.
