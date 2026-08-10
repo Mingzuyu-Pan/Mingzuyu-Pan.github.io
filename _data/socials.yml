@@ -1,10 +1,5 @@
-- icon: fa-solid fa-envelope
-  url: mailto:mzp5919@psu.edu
-- icon: ai ai-google-scholar
-  url: https://scholar.google.com/citations?user=pmHkhPwAAAAJ
-- icon: ai ai-orcid
-  url: https://orcid.org/0009-0006-5815-1663
-- icon: fa-brands fa-github
-  url: https://github.com/Mingzuyu-Pan
-- icon: fa-brands fa-bluesky
-  url: https://bsky.app/profile/mingzuyu-pan.bsky.social
+email: mzp5919@psu.edu
+github_username: Mingzuyu-Pan
+scholar_userid: pmHkhPwAAAAJ
+orcid_id: 0009-0006-5815-1663
+bluesky_username: mingzuyu-pan.bsky.social
