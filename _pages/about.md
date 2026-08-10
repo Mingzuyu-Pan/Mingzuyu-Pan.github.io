@@ -6,7 +6,7 @@ subtitle: PhD Student, <a href='https://www.huck.psu.edu/graduate-programs/bioin
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false
   more_info: >
     <p>Computational Population Genetics</p>
