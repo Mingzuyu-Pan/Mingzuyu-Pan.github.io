@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics'>Bioinformatics and Genomics</a>, <a href='https://www.psu.edu/'>Penn State</a>
+subtitle: PhD Student, <a href='https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics'>Bioinformatics and Genomics</a>, <a href='https://en.wikipedia.org/wiki/Pennsylvania_State_University'>Penn State</a>
 profile:
   align: right
   image: profile.jpeg
@@ -16,11 +16,11 @@ latest_posts: false # set to true when you start blogging
 
 <style>
 body { font-family: 'Lora', serif !important; }
-h1, h2, h3, h4, h5, h6, nav, .navbar { font-family: 'Inter', sans-serif !important; }
+h1, h2, h3, h4, h5, h6, nav, nav *, .navbar, .navbar *, header, header * { font-family: 'Inter', sans-serif !important; }
 .social a i { font-size: 1.5rem !important; }
 </style>
 
-I am a PhD student in the [Bioinformatics and Genomics](https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics) program at Penn State, advised by [Zachary Szpiech](https://szpiech.github.io/). My broad research interests fall into two areas: theoretical population genetics and evolutionary human genetics. During my PhD, I have been focusing on the theory and methods of runs of homozygosity (ROH) and am deeply curious about the landscape of deleterious mutation load. I work with both empirical and simulated data and have extensive experience with [SLiM](https://messerlab.org/slim/) for forward-in-time simulation. Beyond these core areas, I am also drawn to spatial population genetics and conservation genetics.
+I am a fourth year PhD student in the [Bioinformatics and Genomics](https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics) program at Penn State, advised by [Zachary Szpiech](http://szpiech.com/). My broad research interests fall into two areas: theoretical population genetics and evolutionary human genetics. During my PhD, I have been focusing on the theory and methods of runs of homozygosity (ROH) and am deeply curious about the landscape of deleterious mutation load. I work with both empirical and simulated data and have extensive experience with [SLiM](https://messerlab.org/slim/) for forward-in-time simulation. Beyond these core areas, I am also drawn to spatial population genetics and conservation genetics.
 
 Before coming to Penn State, I completed my Bachelor of Science in Mathematics and Applied Mathematics at [Beijing Normal University](https://english.bnu.edu.cn/). During the final years of my undergraduate studies, I worked with [Jackson Champer](https://jchamper.github.io/) at Peking University, where I began my research career through computational simulation of gene drives.
 
