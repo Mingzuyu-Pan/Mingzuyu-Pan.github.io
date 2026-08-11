@@ -17,6 +17,8 @@ latest_posts: false # set to true when you start blogging
 <style>
 body, h1, h2, h3, h4, h5, h6, nav a, .navbar-brand { font-family: 'Lora', serif !important; }
 .social a i { font-size: 1.5rem !important; }
+:root { --global-theme-color: #2e7d32 !important; --global-hover-color: #1b5e20 !important; }
+html[data-theme="dark"] { --global-theme-color: #81c784 !important; --global-hover-color: #a5d6a7 !important; }
 </style>
 
 I am a fourth year PhD student in the [Bioinformatics and Genomics](https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics) program at Penn State, advised by [Zachary Szpiech](http://szpiech.com/). My broad research interests fall into two areas: theoretical population genetics and evolutionary human genetics. During my PhD, I have been focusing on the theory and methods of runs of homozygosity (ROH) and am deeply curious about the landscape of deleterious mutation load. I work with both empirical and simulated data and have extensive experience with [SLiM](https://messerlab.org/slim/) for forward-in-time simulation. Beyond these core areas, I am also drawn to spatial population genetics and conservation genetics.
