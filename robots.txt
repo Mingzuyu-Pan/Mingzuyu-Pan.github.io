@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mingzuyu-pan.github.io/sitemap.xml
+Sitemap: https://mingzuyupan.com/sitemap.xml
