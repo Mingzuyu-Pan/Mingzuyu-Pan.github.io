@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student, <a href='https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics'>Bioinformatics and Genomics</a>, <a href='https://en.wikipedia.org/wiki/Pennsylvania_State_University'>Penn State</a>, United States
 profile:
