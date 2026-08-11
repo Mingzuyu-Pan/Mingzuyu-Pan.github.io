@@ -15,8 +15,7 @@ latest_posts: false # set to true when you start blogging
 ---
 
 <style>
-body { font-family: 'Lora', serif !important; }
-h1, h2, h3, h4, h5, h6, nav, nav *, .navbar, .navbar *, header, header * { font-family: 'Inter', sans-serif !important; }
+body, h1, h2, h3, h4, h5, h6, nav a, .navbar-brand { font-family: 'Lora', serif !important; }
 .social a i { font-size: 1.5rem !important; }
 </style>
 
