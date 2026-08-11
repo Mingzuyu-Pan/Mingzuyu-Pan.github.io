@@ -6,6 +6,11 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+<style>
+body { font-family: 'Lora', serif !important; }
+h1, h2, h3, h4, h5, h6, nav, nav *, .navbar, .navbar *, header, header * { font-family: 'Inter', sans-serif !important; }
+.social a i { font-size: 1.5rem !important; }
+</style>
 
 <!-- _pages/publications.md -->
 
